@@ -5,5 +5,3 @@
 * https://developers.braintreepayments.com/
 * https://developers.google.com/maps/documentation/
 * https://help.bynder.com/
-
-[Home](index.md)
