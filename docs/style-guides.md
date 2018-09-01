@@ -1,6 +1,7 @@
 [Home](index.md)
 
 # Style guides
+
 ## Online
 * [Google Developer Documentation Style guide](https://developers.google.com/style/)
 * [IBM developerWorks editorial style guide](https://www.ibm.com/developerworks/library/styleguidelines/index.html)

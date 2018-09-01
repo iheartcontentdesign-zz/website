@@ -1,6 +1,6 @@
 [Home](index.md)
 
-# Examples of great documentation sets
+# Examples of great docs
 * www.stripe.com/docs
 * www.developers.braintreepayments.com/
 * www.developers.google.com/maps/documentation/
