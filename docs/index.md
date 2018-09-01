@@ -1,10 +1,7 @@
-A collection of links for content designers, technical writers, UX writers, and other content experts.
+Anything missing? Submit a suggestion in a pull request.
 
 ## Style guides
 Check out [this page](style-guides.md)
-
-## Examples of great documentation sets
-Check out [this page](documentation-examples.md)
 
 ## Blogs & websites
 * [I’d rather be writing](https://idratherbewriting.com/)
@@ -12,3 +9,6 @@ Check out [this page](documentation-examples.md)
 ## Community
 * [Write the Docs (check out their Slack channel)](http://www.writethedocs.org/)
 * [Language StackExchange](https://english.stackexchange.com/)
+
+## Examples of great documentation sets
+Check out [this page](documentation-examples.md)
