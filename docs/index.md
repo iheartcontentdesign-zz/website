@@ -1,6 +1,4 @@
-# Resources for content designers
 A collection of links for content designers, technical writers, UX writers, and other content experts.
-Create a PR to add your suggestions.
 
 ## Style guides
 Check out [this page](style-guides.md)
