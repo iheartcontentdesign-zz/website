@@ -4,6 +4,10 @@ Create a PR to add your suggestions.
 
 ## Style guides
 Check out [this page](style-guides.md)
+
+## Examples of great documentation sets
+Check out [this page](documentation-examples.md)
+
 ## Blogs & websites
 * [I’d rather be writing](https://idratherbewriting.com/)
 ## Community
