@@ -1,6 +1,7 @@
 [Home](index.md)
 
 # Style guides
+Books and websites about the foundations of good writing.
 
 ## Online
 * [Google Developer Documentation Style guide](https://developers.google.com/style/)
