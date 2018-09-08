@@ -1,14 +1,13 @@
 Anything missing? Submit a suggestion in a pull request.
 
-### Style guides
-Check out [this page](style-guides.md)
+### [Style guides](style-guides.md)
+Books and websites about the foundations of good writing.
 
-### Blogs & websites
-* [I’d rather be writing](https://idratherbewriting.com/)
+### [Blogs & websites](blogs-websites.md)
+General writing news and inspiration available online.
 
-### Community
-* [Write the Docs (check out their Slack channel)](http://www.writethedocs.org/)
-* [Language StackExchange](https://english.stackexchange.com/)
+### [Community](community.md)
+Groups and forums where you can find writing help.
 
-### Examples of great documentation sets
-Check out [this page](documentation-examples.md)
+### [Examples of great docs](documentation-examples.md)
+Documentation sets that we love.
