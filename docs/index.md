@@ -6,7 +6,7 @@ Anything missing? Submit a suggestion in a pull request.
 ### [Style guides](style-guides.md)
 Books and websites about the foundations of good writing.
 
-### [Content design and strategy](style-guides.md)
+### [Content design and strategy](content-design-and-strategy.md)
 Books and websites about designing coherent content ecosystems.
 
 ### [Blogs & websites](blogs-websites.md)
