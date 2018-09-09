@@ -1,3 +1,5 @@
+
+You can follow us on [Twitter](https://twitter.com/iheartcontent) too.
 Anything missing? Submit a suggestion in a pull request.
 
 ### [Style guides](style-guides.md)
