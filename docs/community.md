@@ -4,7 +4,6 @@
 Groups and forums where you can find help and connect with other content experts.
 
 ## General
-
 * [Write the Docs](http://www.writethedocs.org/)
 * [Language StackExchange](https://english.stackexchange.com/)
 
