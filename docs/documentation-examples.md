@@ -3,7 +3,7 @@
 # Examples of great docs
 Documentation sets that we love.
 
-* www.stripe.com/docs
-* www.developers.braintreepayments.com/
-* www.developers.google.com/maps/documentation/
-* www.help.bynder.com/](www.help.bynder.com/
+* [Stripe](https://stripe.com/docs)
+* [Braintree payments](https://developers.braintreepayments.com/)
+* [Google maps](https://developers.google.com/maps/documentation/)
+* [Bynder](https://help.bynder.com/)
