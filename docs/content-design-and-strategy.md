@@ -3,6 +3,10 @@
 # Content design and strategy
 Books and websites about designing coherent content ecosystems.
 
+## Websites
+* [Content strategy resources by Jonathon Colman](http://www.jonathoncolman.org/2013/02/04/content-strategy-resources/)
+* [Brain traffic resources](https://www.contentstrategy.com/)
+
 ## Books
 * [Mapping Experiences](http://shop.oreilly.com/product/0636920038870.do)
 * [Designing connected content](https://www.bookdepository.com/Designing-Connected-Content-Carrie-Hane/9780134763385)
