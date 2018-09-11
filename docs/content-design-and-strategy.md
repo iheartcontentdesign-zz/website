@@ -13,3 +13,6 @@ Books and websites about designing coherent content ecosystems.
 * [How to make sense of any mess](https://www.bookdepository.com/How-Make-Sense-Any-Mess-Abby-Covert/9781500615994)
 * [Content Design](https://contentdesign.london/book/)
 * [Metadata](https://www.springer.com/gp/book/9783319408910)
+
+## Online courses
+* [Coursera](https://www.coursera.org/courses?query=content%20strategy)
