@@ -7,6 +7,6 @@ General writing news and inspiration available online.
 * [The Content Wrangler](https://thecontentwrangler.com/)
 
 # Online courses
-We haven't tried them, but here's a couple of links:
+We haven't tried them, but these look good:
 * [Coursera](https://www.coursera.org/courses?query=technical%20writing)
 * [Lynda](https://www.lynda.com/search?q=Technical+writing)

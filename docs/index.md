@@ -17,3 +17,11 @@ Groups and forums where you can find help and connect with other content experts
 
 ### [Examples of great docs](documentation-examples.md)
 Documentation sets that we love.
+
+<!-- ### [UX writing](ux-writing.md)
+Books and websites about UI copy and text for graphical interfaces.
+-->
+
+<!-- ### [Coding resources for writers](coding-for-writers.md)
+Books and websites about the basics of programming and markup languages.
+-->
