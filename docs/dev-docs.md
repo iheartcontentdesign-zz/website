@@ -12,3 +12,6 @@ Books and websites about writing with and for developers.
 * [Udemy](https://www.udemy.com/courses/search/?q=peter%20gruenbaum&src=sac&kw=peter%20grun)
   * [Learn X in Y minutes](https://learnxinyminutes.com/)
   * [Codecademy](https://www.codecademy.com/)
+
+## Events
+  * [API the docs](https://apithedocs.org/)
