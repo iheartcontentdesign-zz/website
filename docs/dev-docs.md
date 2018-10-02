@@ -10,7 +10,9 @@ Books and websites about writing with and for developers.
 * [The best API documentation](https://bradfults.com/the-best-api-documentation-b9e46400379a)
 
 ## Online courses
+### Writing
 * [Udemy](https://www.udemy.com/courses/search/?q=peter%20gruenbaum&src=sac&kw=peter%20grun)
+### Developer skills
 * [Learn X in Y minutes](https://learnxinyminutes.com/)
 * [Codecademy](https://www.codecademy.com/)
 
