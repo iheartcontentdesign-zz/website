@@ -15,3 +15,4 @@ Books and websites about writing with and for developers.
 
 ## Events
   * [API the docs](https://apithedocs.org/)
+  * [API days](https://www.apidays.co/)
