@@ -19,6 +19,10 @@ Books and websites about UI copy and text for graphical interfaces.
 ### [Developer docs](dev-docs.md)
 Books and websites about writing with and for developers.
 
+<!-- ### [Management](management.md)
+Books and websites about managing content teams and projects.
+-->
+
 ### [Community](community.md)
 Groups and forums where you can find help and connect with other content experts.
 
