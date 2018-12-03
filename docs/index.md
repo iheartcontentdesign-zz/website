@@ -12,9 +12,8 @@ Books and websites about the foundations of good writing.
 ### [Content design and strategy](content-design-and-strategy.md)
 Books and websites about designing coherent content ecosystems.
 
-<!-- ### [UX writing](ux-writing.md)
+### [UX writing](ux-writing.md)
 Books and websites about UI copy and text for graphical interfaces.
--->
 
 ### [Developer docs](dev-docs.md)
 Books and websites about writing with and for developers.
