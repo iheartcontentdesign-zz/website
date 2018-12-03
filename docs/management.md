@@ -1,15 +1,20 @@
 [Home](index.md)
 
 # Management
+Books and websites about managing content teams and projects.
 
 ## People Management
 Resources that helped us become better people leaders.
 
 * [The manager's path](http://shop.oreilly.com/product/0636920056843.do)
+* [Multipliers](https://www.amazon.com.au/Multipliers-Best-Leaders-Everyone-Smarter/dp/0061964395)
 
-
-## Product management
+<!-- ## Product and project management
 Resources that helped us create roadmaps and manage projects.
+-->
+
+## Leadership
+Resources that helped us become better leaders.
 
 * [Quiet](https://www.bookdepository.com/Quiet-Susan-Cain/9780141029191)
 
