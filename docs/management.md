@@ -3,8 +3,8 @@
 # Management
 Books and websites about managing content teams and projects.
 
-## People Management
-Resources that helped us become better people leaders.
+## People management
+Resources that helped us become better at working with our teams.
 
 * [The manager's path](http://shop.oreilly.com/product/0636920056843.do)
 * [Multipliers](https://www.amazon.com.au/Multipliers-Best-Leaders-Everyone-Smarter/dp/0061964395)
