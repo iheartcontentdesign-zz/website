@@ -9,6 +9,12 @@ Books and websites about designing coherent content ecosystems.
 
 ## Books
 <table>
+<thead>
+  <tr>
+    <th>Title</th>
+    <th>Description</th>
+    </tr>
+</thead>
 <tbody>
   <tr>
     <td><a href="http://shop.oreilly.com/product/0636920038870.do">Mapping Experiences</a></td>
